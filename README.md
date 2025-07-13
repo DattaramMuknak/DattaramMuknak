@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @DattaramMuknak
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning in Python.
 - 💞️ I’m looking to collaborate with data enthusiasts and anyone passionate about tech.
 - 📫 How to reach me on dattarammuknakwork@gmail.com or connect with me on LinkedIn.
 - 😄 Pronouns: He/His
