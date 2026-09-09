@@ -1,11 +1,13 @@
 # Hi, I'm Dattaram Muknak 👋
 
-* 🎓 B.E. graduate in Artificial Intelligence & Data Science
-* 💻 Interested in Software Engineering, Backend Development & Cloud
-* 🚀 Currently building projects with Java, Spring Boot, REST APIs, Microservices & AWS
-* 🤝 Open to internships and entry-level software engineering opportunities
-* 📫 Reach me at **[dattarammuknakwork@gmail.com](mailto:dattarammuknakwork@gmail.com)** or connect with me on LinkedIn
-* ⚡ Fun fact: I enjoy solving problems, whether they're in code or real life!
+🎓 B.E. graduate in **Artificial Intelligence & Data Science**
+🤖 Interested in **AI/ML, Data Science, & Software Development**
+💻 Skilled in **Python, Machine Learning, SQL, Data Analysis, PyTorch & OpenCV**
+🚀 Built projects involving **Real-Time Object Detection, Predictive Modeling & Data Analytics**
+📊 Experienced in **Data Cleaning, EDA, Feature Engineering, Classification & Regression**
+🤝 Open to **entry-level opportunities in AI/ML, Data Science & Data Analytics**
+📫 Reach me at **[dattarammuknakwork@gmail.com](mailto:dattarammuknakwork@gmail.com)** or connect with me on LinkedIn
+⚡ I enjoy solving real-world problems through technology!
 
 <!---
 DattaramMuknak is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
