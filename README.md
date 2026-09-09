@@ -1,7 +1,7 @@
 # Hi, I'm Dattaram Muknak 👋
 
 * 🎓 B.E. graduate in Artificial Intelligence & Data Science
-* 🤖 Interested in AI/ML, Data Science & Computer Vision
+* 🤖 Interested in AI/ML, Data Science & Data Analysis
 * 💻 Working with Python, Machine Learning, SQL, YOLOv5, PyTorch & OpenCV
 * 🚀 Building projects in Object Detection, Predictive Modeling & Data Analytics
 * 📊 Experienced in Data Analysis, EDA, Classification & Regression
